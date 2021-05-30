@@ -1,0 +1,352 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Argentinisima Satelital" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/argentinisimasatelital-profile_image-9aa9b79bfdfe6068-300x300.jpeg" group-title="TV VARIOS",Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1346549774_b1912000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Multivisión - Salta" tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="TV SALTA",Canal 9 Multivisión - Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="I507.104908.schedulesdirect.org" tvg-name="Cinecanal HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinecanal.png" group-title="TV DE PELICULAS",Cinecanal HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2622
+#EXTINF:-1 tvg-id="I120.16395.schedulesdirect.org" tvg-name="Cinemax HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinemax.png" group-title="TV DE PELICULAS",Cinemax HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2623
+#EXTINF:-1 tvg-id="I516.16288.schedulesdirect.org" tvg-name="De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_De_Pelicula.png" group-title="TV DE PELICULAS",De Película
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2624
+#EXTINF:-1 tvg-id="I200.67687.schedulesdirect.org" tvg-name="De Película Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_De_Pelicula.png" group-title="TV DE PELICULAS",De Película Plus
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2625
+#EXTINF:-1 tvg-id="I1515.99979.schedulesdirect.org" tvg-name="Europa Europa HD" tvg-logo="https://www.lincolnonline.com.ar/archivos/tv/184.png" group-title="TV DE PELICULAS",Europa Europa HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2626
+#EXTINF:-1 tvg-id="" tvg-name="Euro Channel" tvg-logo="https://i.ibb.co/1zRPhcJ/cl-eurochannel-m.png" group-title="TV DE PELICULAS",Euro Channel
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/29483
+#EXTINF:-1 tvg-id="I1561.74574.schedulesdirect.org" tvg-name="Star Action HD" tvg-logo="https://i.postimg.cc/xTF7T7r8/st-ac.png" group-title="TV DE PELICULAS",Star Action HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2629
+#EXTINF:-1 tvg-id="I562.71662.schedulesdirect.org" tvg-name="Star Cinema HD" tvg-logo="https://i.postimg.cc/bNGqH4hc/st-ci.png" group-title="TV DE PELICULAS",Star Cinema HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2630
+#EXTINF:-1 tvg-id="I560.44028.schedulesdirect.org" tvg-name="Star Classics HD" tvg-logo="https://i.postimg.cc/1ty0hpHP/st-cla.png" group-title="TV DE PELICULAS",Star Classics HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2632
+#EXTINF:-1 tvg-id="I1557.90969.schedulesdirect.org" tvg-name="Star Comedy HD" tvg-logo="https://i.postimg.cc/B6bgPZfK/st-co.png" group-title="TV DE PELICULAS",Star Comedy HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2631
+#EXTINF:-1 tvg-id="I1556.81294.schedulesdirect.org" tvg-name="Star Fun HD" tvg-logo="https://i.postimg.cc/g2vXsCHB/st-fu.png" group-title="TV DE PELICULAS",Star Fun HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30623
+#EXTINF:-1 tvg-id="I1559.70253.schedulesdirect.org" tvg-name="Star Hits HD" tvg-logo="https://i.postimg.cc/WzPKQgPm/st-hi.png" group-title="TV DE PELICULAS",Star Hits HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2634
+#EXTINF:-1 tvg-id="" tvg-name="Starz Black HD" tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="TV DE PELICULAS",Starz Black HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/6884
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge HD" tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="TV DE PELICULAS",Starz Edge HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2652
+#EXTINF:-1 tvg-id="" tvg-name="Starz Este HD" tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="TV DE PELICULAS",Starz Este HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/6887
+#EXTINF:-1 tvg-id="" tvg-name="Starz Kids & Family HD" tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="TV DE PELICULAS",Starz Kids & Family HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2653
+#EXTINF:-1 tvg-id="" tvg-name="Starz Oeste HD" tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="TV DE PELICULAS",Starz Oeste HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/6886
+#EXTINF:-1 tvg-id="" tvg-name="Starz Suspense HD" tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="TV DE PELICULAS",Starz Suspense HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2656
+#EXTINF:-1 tvg-id="" tvg-name="Starz Western HD" tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="TV DE PELICULAS",Starz Western HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2657
+#EXTINF:-1 tvg-id="I503.50709.schedulesdirect.org" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/180px-Logo_Golden_TV.svg.png" group-title="TV DE PELICULAS",Golden
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2638
+#EXTINF:-1 tvg-id="I517.16423.schedulesdirect.org" tvg-name="Golden Edge" tvg-logo="http://1.bp.blogspot.com/-3h0AASjOe10/VbVd3tZ5JrI/AAAAAAAAESA/uX-yz5HDPmA/s1600/GOLDEN%2BEDGE.png" group-title="TV DE PELICULAS",Golden Edge
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2639
+#EXTINF:-1 tvg-id="I1503.68317.schedulesdirect.org" tvg-name="Golden Plus" tvg-logo="https://i.postimg.cc/Sxd9XyY0/gplus.png" group-title="TV DE PELICULAS",Golden Plus
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2640
+#EXTINF:-1 tvg-id="I1524.19548.schedulesdirect.org" tvg-name="HBO HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="TV DE PELICULAS",HBO HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2642
+#EXTINF:-1 tvg-id="I1525.80652.schedulesdirect.org" tvg-name="HBO 2 HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="TV DE PELICULAS",HBO 2 HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2643
+#EXTINF:-1 tvg-id="I1534.80550.schedulesdirect.org" tvg-name="HBO Family HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="TV DE PELICULAS",HBO Family HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2644
+#EXTINF:-1 tvg-id="I922.80118.schedulesdirect.org" tvg-name="HBO Mundi  HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="TV DE PELICULAS",HBO Mundi  HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30415
+#EXTINF:-1 tvg-id="I120.16395.schedulesdirect.org" tvg-name="HBO Plus HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="TV DE PELICULAS",HBO Plus HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2645
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="TV DE PELICULAS",HBO Pop HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30416
+#EXTINF:-1 tvg-id="I528.74450.schedulesdirect.org" tvg-name="HBO Signature" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="TV DE PELICULAS",HBO Signature
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/7014
+#EXTINF:-1 tvg-id="I528.74450.schedulesdirect.org" tvg-name="HBO Signature HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="TV DE PELICULAS",HBO Signature HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2646
+#EXTINF:-1 tvg-id="I200.67687.schedulesdirect.org" tvg-name="HBO Signature FHD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="TV DE PELICULAS",HBO Signature FHD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/6510
+#EXTINF:-1 tvg-id="I538.34887.schedulesdirect.org" tvg-name="HBO Xtreme HD" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="TV DE PELICULAS",HBO Xtreme HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2695
+#EXTINF:-1 tvg-id="I510.91029.schedulesdirect.org" tvg-name="Paramount Channel HD" tvg-logo="https://i.ya-webdesign.com/images/paramount-pictures-logo-png-14.png" group-title="TV DE PELICULAS",Paramount Channel HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30626
+#EXTINF:-1 tvg-id="" tvg-name="Panico Tv" tvg-logo="https://i.ibb.co/1fCF2yZ/10449923-671832862898253-3650884333216094980-n.jpg" group-title="TV DE PELICULAS",Panico Tv
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/27625
+#EXTINF:-1 tvg-id="" tvg-name="Plex Indie" tvg-logo="https://i.postimg.cc/pXnNZzXr/plex.jpg" group-title="TV DE PELICULAS",Plex Indie
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/7001
+#EXTINF:-1 tvg-id="" tvg-name="Plex Movie" tvg-logo="https://i.postimg.cc/pXnNZzXr/plex.jpg" group-title="TV DE PELICULAS",Plex Movie
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/7002
+#EXTINF:-1 tvg-id="" tvg-name="Plex Retro" tvg-logo="https://i.postimg.cc/pXnNZzXr/plex.jpg" group-title="TV DE PELICULAS",Plex Retro
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/7003
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 1" tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="TV DE PELICULAS",Showtime 1
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/14135
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2" tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="TV DE PELICULAS",Showtime 2
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/14716
+#EXTINF:-1 tvg-id="" tvg-name="Showtime West HD" tvg-logo="https://static.wixstatic.com/media/e72c62_f88f950900fe4505b0a725a0382045c9~mv2.png" group-title="TV DE PELICULAS",Showtime West HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/14717
+
+#EXTINF:-1 tvg-id="I518.70351.schedulesdirect.org" tvg-name="Space HD" tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png" group-title="TV DE PELICULAS",Space HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2649
+#EXTINF:-1 tvg-id="I508.29017.schedulesdirect.org" tvg-name="Studio Universal HD" tvg-logo="http://3.bp.blogspot.com/-KDeHIqXKzfQ/ThNLgA6wOlI/AAAAAAAAPyE/W9XoHa0HkuU/s1600/studiouniversal.png" group-title="TV DE PELICULAS",Studio Universal HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30627
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Kidz" tvg-logo="https://i.postimg.cc/YCwmfMmq/hqdefault.jpg" group-title="TV DE PELICULAS",Ultra Kidz
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/23668
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCine_NLogo.png" group-title="TV DE PELICULAS",Ultra Cine HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/5688
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Familia HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamilia_NLogo.png" group-title="TV DE PELICULAS",Ultra Familia HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/5691
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Film HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFilm_NLogo.png" group-title="TV DE PELICULAS",Ultra Film HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/5687
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Luna HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraLunaLogoBlack.png" group-title="TV DE PELICULAS",Ultra Luna HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/6883
+#EXTINF:-1 tvg-id="I218.16799.schedulesdirect.org" tvg-name="Universal Channel HD" tvg-logo="http://1.bp.blogspot.com/-vZ7-rkLTaQA/TgeZExzxYcI/AAAAAAAABpM/ZtVIi2OJm2o/s1600/Universal+Channel+logo+2010.png" group-title="TV DE PELICULAS",Universal Channel HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2665
+
+#EXTINF:-1 tvg-id="I611.107891.schedulesdirect.org" tvg-name="D*TV SP HD" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="TV DEPORTES",D*TV SP HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/33608
+#EXTINF:-1 tvg-id="I1613.107456.schedulesdirect.org" tvg-name="D*TV SP + HD" tvg-logo="https://i.postimg.cc/3J0QRgcj/D.png" group-title="TV DEPORTES",D*TV SP + HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/32680
+#EXTINF:-1 tvg-id="I1612.106261.schedulesdirect.org" tvg-name="D*TV SP 2 HD" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="TV DEPORTES",D*TV SP 2 HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/37484
+#EXTINF:-1 tvg-id="I1612.106261.schedulesdirect.org" tvg-name="D*TV SP 2 FHD" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="TV DEPORTES",D*TV SP 2 FHD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/37485
+#EXTINF:-1 tvg-id="I1623.67765.schedulesdirect.org" tvg-name="ESPN 2 Latino HD" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="TV DEPORTES",ESPN 2 Latino HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/3075
+#EXTINF:-1 tvg-id="I626.73833.schedulesdirect.org" tvg-name="ESPN 3 Latino HD" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="TV DEPORTES",ESPN 3 Latino HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/3077
+#EXTINF:-1 tvg-id="I621.10180.schedulesdirect.org" tvg-name="ESPN Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="TV DEPORTES",ESPN Latino HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/3073
+#EXTINF:-1 tvg-id="I1621.17725.schedulesdirect.org" tvg-name="ESPN+ Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="TV DEPORTES",ESPN+ Latino HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/3079
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="http://vfes-images.ott.kaltura.com/8aeaa386a67e475689adffe039736bf3_288X162.png" group-title="TV DEPORTES",Eurosport 1 HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30813
+#EXTINF:-1 tvg-id="I62.108370.schedulesdirect.org" tvg-name="Eurosport 2" tvg-logo="http://vfes-images.ott.kaltura.com/351be6f3a78f44b6b4673c0b3e3ad570_288X162.png" group-title="TV DEPORTES",Eurosport 2
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/3424
+#EXTINF:-1 tvg-id="I604.30262.schedulesdirect.org" tvg-name="Fox Sports Premium Argentina HD" tvg-logo="https://i.postimg.cc/W13Wdj4t/premar.png" group-title="TV DEPORTES",Fox Sports Premium Argentina HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/3085
+#EXTINF:-1 tvg-id="" tvg-name="S*K*Y Sports" tvg-logo="https://i.ibb.co/c8spQxr/Sky-Sports-new.png" group-title="TV DEPORTES",S*K*Y Sports
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/37445
+#EXTINF:-1 tvg-id="" tvg-name="Sportv HD" tvg-logo="https://i.ibb.co/T4674Kw/1200px-Spor-TV-2017-logo-svg.png" group-title="TV DEPORTES",Sportv HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/33328
+#EXTINF:-1 tvg-id="I603.106780.schedulesdirect.org" tvg-name="T*N*T Sports HD Argentina" tvg-logo="https://i.postimg.cc/y8YqmCkM/TN1.png" group-title="TV DEPORTES",T*N*T Sports HD Argentina
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/3109
+
+#EXTINF:-1 tvg-id="I1317.104918.schedulesdirect.org" tvg-name="Baby TV" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/baby_tv.png" group-title="TV INFANTIL",Baby TV
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2467
+#EXTINF:-1 tvg-id="" tvg-name="Cachipum! TV" tvg-logo="http://cachipum.tv/img/logo.png" group-title="TV INFANTIL",Cachipum! TV
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/21
+#EXTINF:-1 tvg-id="I304.59562.schedulesdirect.org" tvg-name="Cartoon Network (op.1)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51eXdzLeAVL._SX466_.jpg" group-title="TV INFANTIL",Cartoon Network (op.1)
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2470
+#EXTINF:-1 tvg-id="I330.45955.schedulesdirect.org" tvg-name="Discovery Kids (op.1)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/discovery_kids.png" group-title="TV INFANTIL",Discovery Kids (op.1)
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2471
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel (op.2)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/disneychannel.png" group-title="TV INFANTIL",Disney Channel (op.2)
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30366
+#EXTINF:-1 tvg-id="I315.60506.schedulesdirect.org" tvg-name="Disney Junior (op.1)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/disney-junior.png" group-title="TV INFANTIL",Disney Junior (op.1)
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2473
+#EXTINF:-1 tvg-id="I316.21458.schedulesdirect.org" tvg-name="Disney XD (op.1)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/disney-xd.png" group-title="TV INFANTIL",Disney XD (op.1)
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2474
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD (op.2)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/disney-xd.png" group-title="TV INFANTIL",Disney XD (op.2)
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30603
+#EXTINF:-1 tvg-id="" tvg-name="Infantil Tv" tvg-logo="" group-title="TV INFANTIL",Infantil Tv
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30300
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids (op.2)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/nat_geo_kids.png" group-title="TV INFANTIL",Nat Geo Kids (op.2)
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30604
+#EXTINF:-1 tvg-id="I308.16707.schedulesdirect.org" tvg-name="Nickelodeon(op.1)" tvg-logo="http://2.bp.blogspot.com/-Sxxgjbt3jcY/UF_GoxFI-UI/AAAAAAAAAAk/BJnieaZRxrs/s1600/nick+logo.png" group-title="TV INFANTIL",Nickelodeon(op.1)
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2477
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 (op.1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" group-title="TV INFANTIL",Nick 2 (op.1)
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2479
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr (op.2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="TV INFANTIL",Nick Jr (op.2)
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/32359
+#EXTINF:-1 tvg-id="I328.63109.schedulesdirect.org" tvg-name="Tooncast" tvg-logo="http://files.linehd.webnode.com/200000001-1c4c21d460/tooncast.png" group-title="TV INFANTIL",Tooncast
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2482
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo Del 8 TV" tvg-logo="https://i.ibb.co/vJRC5TN/el-chavo-chespirito-razon-dejaran-de-emitir-televisa-crop1596463418845-jpg-1005196607.jpg" group-title="TV INFANTIL",El Chavo Del 8 TV
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/3614
+
+
+
+#EXTINF:-1 tvg-id="I1212.97256.schedulesdirect.org" tvg-name="Star Life HD" tvg-logo="https://i.postimg.cc/CLsYM6Zy/st-lf.png" group-title="TV DE PELICULAS",Star Life HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2439
+#EXTINF:-1 tvg-id="I224.61514.schedulesdirect.org" tvg-name="Glitz*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/705px-Logo_Glitz.svg.png" group-title="TV DE PELICULAS",sTAR cHANNEL
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2441
+#EXTINF:-1 tvg-id="I847.91978.schedulesdirect.org" tvg-name="Pasiones HD" tvg-logo="http://tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="TV VARIOS",Pasiones HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/4888
+#EXTINF:-1 tvg-id="I1.91035.schedulesdirect.org" tvg-name="Telemundo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/772px-Telemundo_logo_2012.svg.png" group-title="TV VARIOS",Telemundo HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2445
+
+#EXTINF:-1 tvg-id="" tvg-name="AFV Family" tvg-logo="" group-title="BLOOPERS",AFV Family 1
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/40278
+#EXTINF:-1 tvg-id="" tvg-name="AFV Family" tvg-logo="" group-title="BLOOPERS",AFV Family 2
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/40279
+#EXTINF:-1 tvg-id="" tvg-name="AFV Family" tvg-logo="" group-title="BLOOPERS",AFV Family 3
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/40280
+#EXTINF:-1 tvg-id="" tvg-name="AFV Family En Espanol" tvg-logo="" group-title="BLOOPERS",AFV Family En Espanol
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/40281
+#EXTINF:-1 tvg-id="" tvg-name="AFV! (720p)" tvg-logo="" group-title="BLOOPERS",AFV! (720p)
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/40282
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 11" tvg-logo="" group-title="TV VARIOS",CANAL 11 NICARAGUA
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/40927
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 - Salta" tvg-logo="https://canal7salta.com/wp-content/uploads/2017/08/cropped-cropped-LOGO-07.png" group-title="TV salta",Canal 7 - Salta
+https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden TV (240p)" tvg-logo="" group-title="TV VARIOS",Golden TV (240p)
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/41614
+#EXTINF:-1 tvg-id="" tvg-name="GoldStar TV" tvg-logo="" group-title="TV VARIOS",GoldStar TV
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/41615
+
+#EXTINF:-1 tvg-id="" tvg-name="Mi MUSICA TELEVISION" tvg-logo="" group-title="TV MUSICALES",Mi MUSICA TELEVISION
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/42555
+
+
+#EXTINF:-1 tvg-id="I272.15969.schedulesdirect.org" tvg-name="Htv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/100px-Htv_logo.svg.png" group-title="TV MUSICALES",Htv
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/14127
+#EXTINF:-1 tvg-id="" tvg-name="Melody Channel" tvg-logo="https://i.imgur.com/LMG0NwZ.jpg" group-title="TV MUSICALES",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 tvg-id="I1265.109487.schedulesdirect.org" tvg-name="Music Top" tvg-logo="https://i.postimg.cc/8c9pPnCm/musictop.png" group-title="TV MUSICALES",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Portal FoxMix" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="TV MUSICALES",Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Retro TV" tvg-logo="http://www.gustavorivas.com.ar/wp-content/uploads/2009/03/logo-canal-retro1.jpg" group-title="TV MUSICALES",Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-logo="http://www.videoluctv.net/wp-content/uploads/2016/10/telehit.jpg" group-title="TV MUSICALES",Telehit
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/5963
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Fiesta HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFiesta_NLogoWhite.png" group-title="TV MUSICALES",Ultra Fiesta HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/6882
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Portalfoxmix" tvg-logo="" group-title="TV MUSICALES",Portalfoxmix
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/29585
+
+
+#EXTINF:-1 tvg-id="I226.16461.schedulesdirect.org" tvg-name="Las Estrellas" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="TV MEXICO",Las Estrellas
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2548
+#EXTINF:-1 tvg-id="" tvg-name="Televisa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Televisa_logo.svg/245px-Televisa_logo.svg.png" group-title="TV MEXICO",Televisa HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2559
+#EXTINF:-1 tvg-id="I227.37232.schedulesdirect.org" tvg-name="TLNovelas" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/tlnovelas-2.png" group-title="TV MEXICO",TLNovelas
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2549
+
+
+#EXTINF:-1 tvg-id="I504.75496.schedulesdirect.org" tvg-name="America  TV" tvg-logo="https://media.tvalacarta.info/canales/256x256/americatvpe.png" group-title="TV PERU",America  TV
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2398
+#EXTINF:-1 tvg-id="" tvg-name="America  TV HD" tvg-logo="https://media.tvalacarta.info/canales/256x256/americatvpe.png" group-title="TV PERU",America  TV HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30721
+#EXTINF:-1 tvg-id="" tvg-name="Antares TV" tvg-logo="https://3.bp.blogspot.com/-zhNYY_FWi78/WZJefhh6_BI/AAAAAAAAOF8/ZjGx2I92ifkNIrPqAynnTEnBaOz8VBaPACLcBGAs/s320/perutvantares.png" group-title="TV PERU",Antares TV
+https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-id="I28.81338.schedulesdirect.org" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/1200px-ATV_%28Peru%29_-_2018_logo.png" group-title="TV PERU",ATV
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2399
+#EXTINF:-1 tvg-id="" tvg-name="BHTV" tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="TV PERU",BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal N" tvg-logo="https://pbs.twimg.com/profile_images/1157339679848636416/HMKgSOUr_400x400.png" group-title="TV PERU",Canal N
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30718
+#EXTINF:-1 tvg-id="" tvg-name="Canal Exitosa" tvg-logo="https://i.ibb.co/NyDTj2x/descarga.jpg" group-title="TV PERU",Canal Exitosa
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30885
+#EXTINF:-1 tvg-id="" tvg-name="Central TV Chosica" tvg-logo="https://tvlive.altervista.org/wp-content/uploads/2019/05/Central-TV-Chosica-250x180.png" group-title="TV PERU",Central TV Chosica
+https://5c3fb01839654.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cultura 24 TV" tvg-logo="https://yt3.ggpht.com/a-/AN66SAwkPHc5VDE3LK_GAqybAH7WiyBFuqWQUwRzWQ=s288-mo-c-c0xffffffff-rj-k-no" group-title="TV PERU",Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+#EXTINF:-1 tvg-id="I502.80848.schedulesdirect.org" tvg-name="Frecuencia Latina" tvg-logo="https://i.postimg.cc/hPCPQkL2/Latina.png" group-title="TV PERU",Frecuencia Latina
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2403
+#EXTINF:-1 tvg-id="I211.59307.schedulesdirect.org" tvg-name="Frecuencia Latina HD" tvg-logo="https://i.postimg.cc/hPCPQkL2/Latina.png" group-title="TV PERU",Frecuencia Latina HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30886
+#EXTINF:-1 tvg-id="" tvg-name="Magico" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/per-mgico-en-vivo-1386.png" group-title="TV PERU",Magico
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30884
+#EXTINF:-1 tvg-id="" tvg-name="Mega TV Arequipa" tvg-logo="http://i.imgur.com/FiImwkf.png" group-title="TV PERU",Mega TV Arequipa
+https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Monterrico TV" tvg-logo="https://i.postimg.cc/t4kVr57R/monterrico.jpg" group-title="TV PERU",Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/MovistarPlus_LogoBeta.png/revision/latest?cb=20180906204105&path-prefix=es" group-title="TV PERU",Movistar Plus
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2404
+#EXTINF:-1 tvg-id="" tvg-name="Ovación" tvg-logo="https://logicaldesign.pe/images/contenido/cliente_logo_ovacion.pe.png" group-title="TV PERU",Ovación
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/931px-Panamericana-tv.svg.png" group-title="TV PERU",Panamericana
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/120
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/931px-Panamericana-tv.svg.png" group-title="TV PERU",Panamericana HD
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30722
+#EXTINF:-1 tvg-id="" tvg-name="Plus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="TV PERU",Plus TV
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30719
+#EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="https://cdn-profiles.tunein.com/s86492/images/logog.png" group-title="TV PERU",RPP
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30717
+#EXTINF:-1 tvg-id="" tvg-name="TV Cosmos" tvg-logo="https://1.bp.blogspot.com/-VfOe5Ecgi-Q/W1APtBGFZ0I/AAAAAAAADfU/RMpp3taUvF4VZDevYxSrI8pVofRhoBSMQCLcBGAs/s320/tv_cosmos.png" group-title="TV PERU",TV Cosmos
+https://59d39900ebfb8.streamlock.net/stream15/stream15/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVpe" tvg-logo="https://i.postimg.cc/yYGh4r5t/tvpe1.jpg" group-title="TV PERU",TVpe
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/14474
+#EXTINF:-1 tvg-id="" tvg-name="TVpe Noticias" tvg-logo="https://i.postimg.cc/yYGh4r5t/tvpe1.jpg" group-title="TV PERU",TVpe Noticias
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/14475
+#EXTINF:-1 tvg-id="" tvg-name="Karibeña" tvg-logo="https://1.bp.blogspot.com/-bYQFdlc0d0A/W7Vn4KLzXkI/AAAAAAAAMPw/5nOcRFw9V7cMAiBv0vjsv50OYrzlUCcYACLcBGAs/s200/radio-la-karibena.jpg" group-title="TV PERU",Karibeña
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30980
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Alf 24/7" tvg-logo="https://www.ecured.cu/images/7/72/Alf.jpg" group-title="TV INFANTIL",Alf 24-7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30968
+
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24/7" tvg-logo="https://vignette.wikia.nocookie.net/bobesponja/images/b/bb/Bob_Esponja.png" group-title="TV INFANTIL",Bob Esponja 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/7094
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Acción 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="TV DE PELICULAS",Cinema Acción 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31709
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Ciencia Ficción 24/7 " tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="TV DE PELICULAS",Cinema Ciencia Ficción 24/7 
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31712
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dc Universe 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="TV DE PELICULAS",Cinema Dc Universe 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31707
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="TV DE PELICULAS",Cinema Disney 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31708
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="TV DE PELICULAS",Cinema Horror 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31710
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Infantil 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="TV DE PELICULAS",Cinema Infantil 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31727
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="TV DE PELICULAS",Cinema Marvel 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31706
+#EXTINF:-1 tvg-id="" tvg-name="Coraje el Perro Cobarde 24/7" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/coraje-el-perro-cobarde-png-6.png" group-title="TV INFANTIL",Coraje el Perro Cobarde 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/13315
+#EXTINF:-1 tvg-id="" tvg-name="El Chapulín Colorado 24/7" tvg-logo="https://www.gacetademexico.com/wp-content/uploads/2014/11/Chespirito-_el-chapulin-colorado.jpg" group-title="TV INFANTIL",El Chapulín Colorado 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/13318
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 24/7" tvg-logo="https://i.postimg.cc/rFSCG5w1/chavo.png" group-title="TV INFANTIL",El Chavo del 8 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/14720
+#EXTINF:-1 tvg-id="" tvg-name="El Pájaro Loco 24/7" tvg-logo="https://static2.elcomercio.es/www/pre2017/multimedia/noticias/201607/03/media/camiseta-pajaro-loco_xoptimizadax-kkvG-U201254760224ebD-490x490@El%20Comercio.jpg" group-title="TV INFANTIL",El Pájaro Loco 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/13316
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra 24/7" tvg-logo="https://i.ibb.co/gyhBGs3/The-Flintstones.jpg" group-title="TV INFANTIL",Los Picapiedra 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31726
+#EXTINF:-1 tvg-id="" tvg-name="Los  Simpsons  24/7" tvg-logo="https://img.huffingtonpost.com/asset/5df79f752500004071d3050f.jpeg" group-title="TV INFANTIL",Los  Simpsons  24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31721
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="TV MUSICALES",Mix 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31698
+#EXTINF:-1 tvg-id="" tvg-name="Mix Pop 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="TV MUSICALES",Mix Pop 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31701
+#EXTINF:-1 tvg-id="" tvg-name="Mix Retro 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="TV MUSICALES",Mix Retro 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31702
+#EXTINF:-1 tvg-id="" tvg-name="Mix Top 100 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="TV MUSICALES",Mix Top 100 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31703
+#EXTINF:-1 tvg-id="" tvg-name="Mix Tropical 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="TV MUSICALES",Mix Tropical 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31704
+#EXTINF:-1 tvg-id="" tvg-name="Mix Vintage 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="TV MUSICALES",Mix Vintage 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31705
+#EXTINF:-1 tvg-id="" tvg-name="Pinky y Cerebro 24/7" tvg-logo="https://i.ibb.co/hRVxyW1/pinkyandthebrain.jpg" group-title="TV INFANTIL",Pinky y Cerebro 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31723
+#EXTINF:-1 tvg-id="" tvg-name="Super Cine  24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="TV DE PELICULAS",Super Cine  24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/33182
+#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo 24/7" tvg-logo="http://pluspng.com/img-png/png-scooby-doo--565.png" group-title="TV INFANTIL",Scooby Doo 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/13317
+#EXTINF:-1 tvg-id="" tvg-name="TV Clásica 24/7" tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="TV DE PELICULAS",TV Clásica 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/33181
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="TV INFANTIL",X-Men 24/7
+http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/31711
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Frecuencia 100 (Perú)" tvg-logo="https://milemisoras.com/img/channel/60a5128f023d14634afc51afd2201d89.png" group-title="RADIOS PERU",Radio Frecuencia 100 (Perú)
+http://oyotunstream.com:7066/;
+#EXTINF:-1 tvg-id="" tvg-name="Radio La Kalle (Perú)" tvg-logo="http://www.radiolakalle.pe/wp-content/uploads/2015/05/LOGO-CON-SLOGAN1-e1513719885620.png" group-title="RADIOS PERU",Radio La Kalle (Perú)
+http://167.114.118.120:7448/;
+#EXTINF:-1 tvg-id="" tvg-name="Radio La Karibeña (Perú)" tvg-logo="https://peru.mom-rsf.org/uploads/tx_lfrogmom/media/2029-205_import.png" group-title="RADIOS PERU",Radio La Karibeña (Perú)
+http://167.114.118.120:7442/;
+#EXTINF:-1 tvg-id="" tvg-name="Radiomar (Perú)" tvg-logo="https://radiomar.pe/assets/images/logo-radiomar.png" group-title="RADIOS PERU",Radiomar (Perú)
+http://16643.live.streamtheworld.com/CRP_MARAAC.aac
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nueva Q (Perú)" tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/1/26611.v4.png" group-title="RADIOS PERU",Radio Nueva Q (Perú)
+http://18323.live.streamtheworld.com/CRP_NQAAC.aac
+
+
+
+
