@@ -245,22 +245,12 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30718
 #EXTINF:-1 tvg-id="" tvg-name="Canal Exitosa" tvg-logo="https://i.ibb.co/NyDTj2x/descarga.jpg" group-title="TV PERU",Canal Exitosa
 http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30885
-#EXTINF:-1 tvg-id="" tvg-name="Central TV Chosica" tvg-logo="https://tvlive.altervista.org/wp-content/uploads/2019/05/Central-TV-Chosica-250x180.png" group-title="TV PERU",Central TV Chosica
-https://5c3fb01839654.streamlock.net:554/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cultura 24 TV" tvg-logo="https://yt3.ggpht.com/a-/AN66SAwkPHc5VDE3LK_GAqybAH7WiyBFuqWQUwRzWQ=s288-mo-c-c0xffffffff-rj-k-no" group-title="TV PERU",Cultura 24 TV
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:-1 tvg-id="I502.80848.schedulesdirect.org" tvg-name="Frecuencia Latina" tvg-logo="https://i.postimg.cc/hPCPQkL2/Latina.png" group-title="TV PERU",Frecuencia Latina
 http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2403
 #EXTINF:-1 tvg-id="I211.59307.schedulesdirect.org" tvg-name="Frecuencia Latina HD" tvg-logo="https://i.postimg.cc/hPCPQkL2/Latina.png" group-title="TV PERU",Frecuencia Latina HD
 http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30886
 #EXTINF:-1 tvg-id="" tvg-name="Magico" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/per-mgico-en-vivo-1386.png" group-title="TV PERU",Magico
 http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30884
-#EXTINF:-1 tvg-id="" tvg-name="Mega TV Arequipa" tvg-logo="http://i.imgur.com/FiImwkf.png" group-title="TV PERU",Mega TV Arequipa
-https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Monterrico TV" tvg-logo="https://i.postimg.cc/t4kVr57R/monterrico.jpg" group-title="TV PERU",Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/MovistarPlus_LogoBeta.png/revision/latest?cb=20180906204105&path-prefix=es" group-title="TV PERU",Movistar Plus
-http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/2404
 #EXTINF:-1 tvg-id="" tvg-name="Ovación" tvg-logo="https://logicaldesign.pe/images/contenido/cliente_logo_ovacion.pe.png" group-title="TV PERU",Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/931px-Panamericana-tv.svg.png" group-title="TV PERU",Panamericana
@@ -271,12 +261,8 @@ http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30722
 http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30719
 #EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="https://cdn-profiles.tunein.com/s86492/images/logog.png" group-title="TV PERU",RPP
 http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30717
-#EXTINF:-1 tvg-id="" tvg-name="TV Cosmos" tvg-logo="https://1.bp.blogspot.com/-VfOe5Ecgi-Q/W1APtBGFZ0I/AAAAAAAADfU/RMpp3taUvF4VZDevYxSrI8pVofRhoBSMQCLcBGAs/s320/tv_cosmos.png" group-title="TV PERU",TV Cosmos
-https://59d39900ebfb8.streamlock.net/stream15/stream15/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVpe" tvg-logo="https://i.postimg.cc/yYGh4r5t/tvpe1.jpg" group-title="TV PERU",TVpe
 http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/14474
-#EXTINF:-1 tvg-id="" tvg-name="TVpe Noticias" tvg-logo="https://i.postimg.cc/yYGh4r5t/tvpe1.jpg" group-title="TV PERU",TVpe Noticias
-http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/14475
 #EXTINF:-1 tvg-id="" tvg-name="Karibeña" tvg-logo="https://1.bp.blogspot.com/-bYQFdlc0d0A/W7Vn4KLzXkI/AAAAAAAAMPw/5nOcRFw9V7cMAiBv0vjsv50OYrzlUCcYACLcBGAs/s200/radio-la-karibena.jpg" group-title="TV PERU",Karibeña
 http://stkiptv.ddns.me:27890/USUARIO1605L/PEREJIL/30980
 
